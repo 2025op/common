@@ -1,9 +1,9 @@
 #!/bin/sh
 
 #====================================================
-#	MANUFACTURER:	281677160
+#	MANUFACTURER:	2025op
 #	Dscription: openwrt onekey Management
-#	github: https://github.com/281677160/build-actions
+#	github: https://github.com/2025op/build-actions
 #====================================================
 
 # 字体颜色配置
